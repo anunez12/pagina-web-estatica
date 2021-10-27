@@ -4,6 +4,9 @@ h1{
 
 }
 
+body{
+    background-color: cornsilk;
+}
 .estilo{
     color: black; 
     text-align: left;
@@ -13,7 +16,7 @@ p.texto {
     font-size: 18px;
     text-align: left;
     margin-bottom: 20px;
-    color: whitesmoke;
+    color: black;
 }
 
 p.texto2 {
@@ -21,4 +24,12 @@ p.texto2 {
     text-align: justify;
     margin-bottom: 20px;
     color: red;
+}
+
+.imagen{
+    width: 300px;
+    height: 300px;
+    
+    
+    
 }
