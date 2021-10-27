@@ -5,6 +5,20 @@ h1{
 }
 
 .estilo{
-    color: skyblue; 
+    color: black; 
     text-align: left;
+}
+
+p.texto {
+    font-size: 18px;
+    text-align: left;
+    margin-bottom: 20px;
+    color:  peru;
+}
+
+p.texto2 {
+    font-size: 18px;
+    text-align: justify;
+    margin-bottom: 20px;
+    color: red;
 }
