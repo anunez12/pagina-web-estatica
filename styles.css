@@ -4,30 +4,16 @@ h1{
 
 }
 
-
-
 .estilo{
     color: black; 
-<<<<<<< HEAD
-    text-align: left;
-    
-}
-body{
-   background: peru;  
-}
-p.texto {  
-    font-size: 18px;
-    text-align: left;
-=======
     text-align: left;
 }
 
 p.texto {
     font-size: 18px;
     text-align: left;
->>>>>>> contenido
     margin-bottom: 20px;
-    color:  peru;
+    color: whitesmoke;
 }
 
 p.texto2 {
