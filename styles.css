@@ -5,6 +5,18 @@ h1{
 
 }
 
+h2.ti{
+    
+    color: blueviolet;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+li{
+  color:black;
+ font-size: larger;
+}
+
 body{
     background-color: cornsilk;
 }
